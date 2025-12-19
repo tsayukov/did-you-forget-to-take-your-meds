@@ -1,0 +1,14 @@
+# Android Studio
+*.iml
+.idea
+captures/
+
+# Gradle files
+.gradle
+build
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# MacOS
+.DS_Store
